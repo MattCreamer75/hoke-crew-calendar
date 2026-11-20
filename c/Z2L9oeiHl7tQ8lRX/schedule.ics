@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:si-mwnmimnhcu6j-2026-11-23@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:🟩 GP Corrigan Plywood: Vat main air supply tie in (H23091) - 5 
@@ -18,12 +18,12 @@ SUMMARY:🟩 GP Corrigan Plywood: Vat main air supply tie in (H23091) - 5
 LOCATION:GP Corrigan Plywood
 DESCRIPTION:Job list: Corrigan Thanksgiving Outage\nWO: H23091\nShift: Day
  \nLeadman: Joseph Taylor\nCrew: Cody Hardy\, Cody Dye\, Gunner Dykes\, Ma
- son Hoke\n\nUpdated 11/20/2026\, 1:33:47 PM from the Hoke Jobs Dashboard.
+ son Hoke\n\nUpdated 11/20/2026\, 1:53:21 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnmb1dktf2g-2026-11-24@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:🟩 GP Corrigan Plywood: Rough deck clean up conveyor extensions 
@@ -35,13 +35,13 @@ DESCRIPTION:Job list: Corrigan Thanksgiving Outage\nWO: H23096\nShift: Day
  ange (4 men\, 2 h)\n- Tack drag chains to pan in top trough and return tr
  ough (4 men\, 1 h)\n- Wash end of pins and break chains (4 men\, 3 h)\n- 
  Remove head spools (4 men\, 3 h)\n- Tack new pan extensions in place (4 m
- en\, 3 h)\n\nUpdated 11/20/2026\, 1:33:47 PM from the Hoke Jobs Dashboard
+ en\, 3 h)\n\nUpdated 11/20/2026\, 1:53:21 PM from the Hoke Jobs Dashboard
  .
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnmimnhcu6j-2026-11-24@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:🟩 GP Corrigan Plywood: Vat main air supply tie in (H23091) - 5 
@@ -49,12 +49,12 @@ SUMMARY:🟩 GP Corrigan Plywood: Vat main air supply tie in (H23091) - 5
 LOCATION:GP Corrigan Plywood
 DESCRIPTION:Job list: Corrigan Thanksgiving Outage\nWO: H23091\nShift: Day
  \nLeadman: Joseph Taylor\nCrew: Cody Hardy\, Cody Dye\, Gunner Dykes\, Ma
- son Hoke\n\nUpdated 11/20/2026\, 1:33:47 PM from the Hoke Jobs Dashboard.
+ son Hoke\n\nUpdated 11/20/2026\, 1:53:21 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnmb1dktf2g-2026-11-25@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🟩 GP Corrigan Plywood: Rough deck clean up conveyor extensions 
@@ -65,13 +65,13 @@ DESCRIPTION:Job list: Corrigan Thanksgiving Outage\nWO: H23096\nShift: Day
  \, Michael Henson\nSteps:\n- Stitch outside with 7018 and seal weld insid
  e with 6011 (4 men\, 4 h)\n- Add drag chain links and make up chain (4 me
  n\, 4 h)\n- Add drive chain links and make up chains (4 men\, 3 h)\n- Cle
- an up tools and work area (4 men\, 1 h)\n\nUpdated 11/20/2026\, 1:33:47 P
+ an up tools and work area (4 men\, 1 h)\n\nUpdated 11/20/2026\, 1:53:21 P
  M from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnmqo9jdl0e-2026-11-25@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🟩 GP Corrigan Plywood: Green chip bin critical structure repair
@@ -79,51 +79,51 @@ SUMMARY:🟩 GP Corrigan Plywood: Green chip bin critical structure repair
 LOCATION:GP Corrigan Plywood
 DESCRIPTION:Job list: Corrigan Thanksgiving Outage\nWO: H23090\nShift: Day
  \nLeadman: Joseph Taylor\nCrew: Dustin Turner\, Alex Cheney\, Jerry Mac H
- ardy\, Gene Rasco\n\nUpdated 11/20/2026\, 1:33:47 PM from the Hoke Jobs D
+ ardy\, Gene Rasco\n\nUpdated 11/20/2026\, 1:53:21 PM from the Hoke Jobs D
  ashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnsrkrg7xba-2026-11-25@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🟨 GP Diboll Lumber: Transfer cart install (H22965) - 4 men
 LOCATION:GP Diboll Lumber
 DESCRIPTION:Job list: Transfer cart at Diboll Lumber\nWO: H22965\nYou: Lea
  dman\nShift: Day\nLeadman: Aaron Hoke\nCrew: Cody Hardy\, J.C. Allen\, Ma
- son Hoke\n\nUpdated 11/20/2026\, 1:33:47 PM from the Hoke Jobs Dashboard.
+ son Hoke\n\nUpdated 11/20/2026\, 1:53:21 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnsrkrg7xba-2026-11-26@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:🟨 GP Diboll Lumber: Transfer cart install (H22965) - 6 men
 LOCATION:GP Diboll Lumber
 DESCRIPTION:Job list: Transfer cart at Diboll Lumber\nWO: H22965\nYou: Lea
  dman\nShift: Day\nLeadman: Aaron Hoke\nCrew: Cody Hardy\, Mason Hoke\, Te
- ddy Lane\, Jamie Marino\, Michael Henson\n\nUpdated 11/20/2026\, 1:33:47 
+ ddy Lane\, Jamie Marino\, Michael Henson\n\nUpdated 11/20/2026\, 1:53:21 
  PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnsrkrg7xba-2026-11-27@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:🟨 GP Diboll Lumber: Transfer cart install (H22965) - 6 men
 LOCATION:GP Diboll Lumber
 DESCRIPTION:Job list: Transfer cart at Diboll Lumber\nWO: H22965\nYou: Lea
  dman\nShift: Day\nLeadman: Aaron Hoke\nCrew: Cody Hardy\, Mason Hoke\, Te
- ddy Lane\, Jamie Marino\, Michael Henson\n\nUpdated 11/20/2026\, 1:33:47 
+ ddy Lane\, Jamie Marino\, Michael Henson\n\nUpdated 11/20/2026\, 1:53:21 
  PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-gppb-21-2026-12-03@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:🟦 Diboll: Dryer 2 outfeed chute carbon steel instead of stainle
@@ -131,13 +131,13 @@ SUMMARY:🟦 Diboll: Dryer 2 outfeed chute carbon steel instead of stainle
 LOCATION:Diboll
 DESCRIPTION:Job list: Particleboard Job List — December 2026 Outage and 
  end of year work\nWO: H23056\nShift: Day\nLeadman: Teddy Lane\nCrew: Ronn
- ie Jennings\n\nUpdated 11/20/2026\, 1:33:47 PM from the Hoke Jobs Dashboa
+ ie Jennings\n\nUpdated 11/20/2026\, 1:53:21 PM from the Hoke Jobs Dashboa
  rd.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnv5wp7hgl6-2026-12-03@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:🟦 Diboll: Millwright assistance for Mike & Martin (H23071) - 4 
@@ -145,25 +145,25 @@ SUMMARY:🟦 Diboll: Millwright assistance for Mike & Martin (H23071) - 4
 LOCATION:Diboll
 DESCRIPTION:Job list: Particleboard Job List — December 2026 Outage and 
  end of year work\nWO: H23071\nShift: Day\nCrew: J.C. Allen\, Gene Rasco\,
-  Brian Parrish\, Tanner Boulware\n\nUpdated 11/20/2026\, 1:33:47 PM from 
+  Brian Parrish\, Tanner Boulware\n\nUpdated 11/20/2026\, 1:53:21 PM from 
  the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnwscqzgmfo-2026-12-03@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:🟦 Diboll: Vibrator on hammermill 1 down chute (H23072) - 2 men
 LOCATION:Diboll
 DESCRIPTION:Job list: Particleboard Job List — December 2026 Outage and 
  end of year work\nWO: H23072\nShift: Day\nCrew: Alex Cheney\, Dustin Turn
- er\n\nUpdated 11/20/2026\, 1:33:47 PM from the Hoke Jobs Dashboard.
+ er\n\nUpdated 11/20/2026\, 1:53:21 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-gppb-16-2026-12-04@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:🟦 Diboll: Fabricate and install new down chute to reclaim airlo
@@ -171,26 +171,26 @@ SUMMARY:🟦 Diboll: Fabricate and install new down chute to reclaim airlo
 LOCATION:Diboll
 DESCRIPTION:Job list: Particleboard Job List — December 2026 Outage and 
  end of year work\nWO: 22974\nShift: Day\nLeadman: Greg Davis\nCrew: Hunte
- r McGuire\, Devon Gates\, RB Stowe\n\nUpdated 11/20/2026\, 1:33:47 PM fro
+ r McGuire\, Devon Gates\, RB Stowe\n\nUpdated 11/20/2026\, 1:53:21 PM fro
  m the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnv2izgq70b-2026-12-04@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:🟦 Diboll: Truck dump wall extensions (H23062) - 3 men
 LOCATION:Diboll
 DESCRIPTION:Job list: Particleboard Job List — December 2026 Outage and 
  end of year work\nWO: H23062\nShift: Day\nLeadman: Teddy Lane\nCrew: Adam
-  Parrish\, Jerry Mac Hardy\n\nUpdated 11/20/2026\, 1:33:47 PM from the Ho
+  Parrish\, Jerry Mac Hardy\n\nUpdated 11/20/2026\, 1:53:21 PM from the Ho
  ke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnv5wp7hgl6-2026-12-04@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:🟦 Diboll: Millwright assistance for Mike & Martin (H23071) - 4 
@@ -198,25 +198,25 @@ SUMMARY:🟦 Diboll: Millwright assistance for Mike & Martin (H23071) - 4
 LOCATION:Diboll
 DESCRIPTION:Job list: Particleboard Job List — December 2026 Outage and 
  end of year work\nWO: H23071\nShift: Day\nCrew: J.C. Allen\, Gene Rasco\,
-  Brian Parrish\, Tanner Boulware\n\nUpdated 11/20/2026\, 1:33:47 PM from 
+  Brian Parrish\, Tanner Boulware\n\nUpdated 11/20/2026\, 1:53:21 PM from 
  the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnwo79e7aiu-2026-12-04@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:🟦 Diboll: Switch gate at RMS shuttle belt (H23070) - 2 men
 LOCATION:Diboll
 DESCRIPTION:Job list: Particleboard Job List — December 2026 Outage and 
  end of year work\nWO: H23070\nShift: Day\nCrew: Dustin Turner\, Alex Chen
- ey\n\nUpdated 11/20/2026\, 1:33:47 PM from the Hoke Jobs Dashboard.
+ ey\n\nUpdated 11/20/2026\, 1:53:21 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-gppb-16-2026-12-05@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:🟦 Diboll: Fabricate and install new down chute to reclaim airlo
@@ -224,26 +224,26 @@ SUMMARY:🟦 Diboll: Fabricate and install new down chute to reclaim airlo
 LOCATION:Diboll
 DESCRIPTION:Job list: Particleboard Job List — December 2026 Outage and 
  end of year work\nWO: 22974\nShift: Day\nLeadman: Greg Davis\nCrew: Hunte
- r McGuire\, Devon Gates\, RB Stowe\n\nUpdated 11/20/2026\, 1:33:47 PM fro
+ r McGuire\, Devon Gates\, RB Stowe\n\nUpdated 11/20/2026\, 1:53:21 PM fro
  m the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnv2izgq70b-2026-12-05@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:🟦 Diboll: Truck dump wall extensions (H23062) - 3 men
 LOCATION:Diboll
 DESCRIPTION:Job list: Particleboard Job List — December 2026 Outage and 
  end of year work\nWO: H23062\nShift: Day\nLeadman: Teddy Lane\nCrew: Adam
-  Parrish\, Darron Hoke\n\nUpdated 11/20/2026\, 1:33:47 PM from the Hoke J
+  Parrish\, Darron Hoke\n\nUpdated 11/20/2026\, 1:53:21 PM from the Hoke J
  obs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnv5wp7hgl6-2026-12-05@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:🟦 Diboll: Millwright assistance for Mike & Martin (H23071) - 4 
@@ -251,13 +251,13 @@ SUMMARY:🟦 Diboll: Millwright assistance for Mike & Martin (H23071) - 4
 LOCATION:Diboll
 DESCRIPTION:Job list: Particleboard Job List — December 2026 Outage and 
  end of year work\nWO: H23071\nShift: Day\nCrew: J.C. Allen\, Gene Rasco\,
-  Brian Parrish\, Tanner Boulware\n\nUpdated 11/20/2026\, 1:33:47 PM from 
+  Brian Parrish\, Tanner Boulware\n\nUpdated 11/20/2026\, 1:53:21 PM from 
  the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnwj1ciifh0-2026-12-05@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:🟦 Diboll: Dryer #1 Outfeed Blower Fan Replacement (H23078) - 3 
@@ -265,13 +265,13 @@ SUMMARY:🟦 Diboll: Dryer #1 Outfeed Blower Fan Replacement (H23078) - 3
 LOCATION:Diboll
 DESCRIPTION:Job list: Particleboard Job List — December 2026 Outage and 
  end of year work\nWO: H23078\nShift: Day\nCrew: Dustin Turner\, Alex Chen
- ey\, Jerry Mac Hardy\n\nUpdated 11/20/2026\, 1:33:47 PM from the Hoke Job
+ ey\, Jerry Mac Hardy\n\nUpdated 11/20/2026\, 1:53:21 PM from the Hoke Job
  s Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwp5imfy07mx-2026-12-05@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:🟪 Ward Timber: Slabber install (H23029) - 9 men
@@ -282,13 +282,13 @@ DESCRIPTION:Job list: Slabber install at Ward Timber in Linden Texas\nWO:
  ings\, Ronald Wise\, Matthew Creamer\nSteps:\n- Remove tin & purlins from
   building (4 men\, 12 h)\n- Cut stairs loose and shorten catwalk and unlo
  ad trucks (4 men\, 8 h)\n- Start cutting cab loose to move and unload tru
- cks (4 men\, 4 h)\n\nUpdated 11/20/2026\, 1:33:47 PM from the Hoke Jobs D
+ cks (4 men\, 4 h)\n\nUpdated 11/20/2026\, 1:53:21 PM from the Hoke Jobs D
  ashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnv2izgq70b-2026-12-06@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:🟦 Diboll: Truck dump wall extensions (H23062) - 7 men
@@ -296,12 +296,12 @@ LOCATION:Diboll
 DESCRIPTION:Job list: Particleboard Job List — December 2026 Outage and 
  end of year work\nWO: H23062\nShift: Day\nLeadman: Teddy Lane\nCrew: Adam
   Parrish\, Jerry Mac Hardy\, Greg Davis\, Hunter McGuire\, Devon Gates\, 
- RB Stowe\n\nUpdated 11/20/2026\, 1:33:47 PM from the Hoke Jobs Dashboard.
+ RB Stowe\n\nUpdated 11/20/2026\, 1:53:21 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnv5wp7hgl6-2026-12-06@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:🟦 Diboll: Millwright assistance for Mike & Martin (H23071) - 4 
@@ -309,13 +309,13 @@ SUMMARY:🟦 Diboll: Millwright assistance for Mike & Martin (H23071) - 4
 LOCATION:Diboll
 DESCRIPTION:Job list: Particleboard Job List — December 2026 Outage and 
  end of year work\nWO: H23071\nShift: Day\nCrew: J.C. Allen\, Gene Rasco\,
-  Brian Parrish\, Tanner Boulware\n\nUpdated 11/20/2026\, 1:33:47 PM from 
+  Brian Parrish\, Tanner Boulware\n\nUpdated 11/20/2026\, 1:53:21 PM from 
  the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwp5imfy07mx-2026-12-06@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:🟪 Ward Timber: Slabber install (H23029) - 10 men
@@ -326,13 +326,13 @@ DESCRIPTION:Job list: Slabber install at Ward Timber in Linden Texas\nWO:
  ings\, Dustin Turner\, Ronald Wise\, Matthew Creamer\nSteps:\n- Finish cu
  tting cab loose and move (4 men\, 6 h)\n- Install new structure for slabb
  er (4 men\, 6 h)\n- Remove wall sheets for conveyor to pass through and i
- nstall conveyor section (4 men\, 12 h)\n\nUpdated 11/20/2026\, 1:33:47 PM
+ nstall conveyor section (4 men\, 12 h)\n\nUpdated 11/20/2026\, 1:53:21 PM
   from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnv5wp7hgl6-2026-12-07@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:🟦 Diboll: Millwright assistance for Mike & Martin (H23071) - 4 
@@ -340,37 +340,37 @@ SUMMARY:🟦 Diboll: Millwright assistance for Mike & Martin (H23071) - 4
 LOCATION:Diboll
 DESCRIPTION:Job list: Particleboard Job List — December 2026 Outage and 
  end of year work\nWO: H23071\nShift: Day\nCrew: J.C. Allen\, Gene Rasco\,
-  Brian Parrish\, Tanner Boulware\n\nUpdated 11/20/2026\, 1:33:47 PM from 
+  Brian Parrish\, Tanner Boulware\n\nUpdated 11/20/2026\, 1:53:21 PM from 
  the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnvwpx3b3yr-2026-12-07@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:🟦 Diboll: BCL forming head adjustment (H23073) - 2 men
 LOCATION:Diboll
 DESCRIPTION:Job list: Particleboard Job List — December 2026 Outage and 
  end of year work\nWO: H23073\nShift: Day\nCrew: Teddy Lane - 6 h\, RB Sto
- we - 6 h\n\nUpdated 11/20/2026\, 1:33:47 PM from the Hoke Jobs Dashboard.
+ we - 6 h\n\nUpdated 11/20/2026\, 1:53:21 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnvxxh6unoy-2026-12-07@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:🟦 Diboll: TCL forming head adjustment (H23073) - 2 men
 LOCATION:Diboll
 DESCRIPTION:Job list: Particleboard Job List — December 2026 Outage and 
  end of year work\nWO: H23073\nShift: Day\nCrew: Teddy Lane - 6 h\, RB Sto
- we - 6 h\n\nUpdated 11/20/2026\, 1:33:47 PM from the Hoke Jobs Dashboard.
+ we - 6 h\n\nUpdated 11/20/2026\, 1:53:21 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwp5imfy07mx-2026-12-07@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:🟪 Ward Timber: Slabber install (H23029) - 10 men
@@ -382,12 +382,12 @@ DESCRIPTION:Job list: Slabber install at Ward Timber in Linden Texas\nWO:
  ther half of chain conveyor through wall (5 men\, 6 h)\n- Weld out struct
  ure for slabber (4 men\, 6 h)\n- Set cab on new structure (4 men\, 6 h)\n
  - Install first half of outside chain conveyor (5 men\, 6 h)\n\nUpdated 1
- 1/20/2026\, 1:33:47 PM from the Hoke Jobs Dashboard.
+ 1/20/2026\, 1:53:21 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwp5imfy07mx-2026-12-08@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:🟪 Ward Timber: Slabber install (H23029) - 10 men
@@ -397,12 +397,12 @@ DESCRIPTION:Job list: Slabber install at Ward Timber in Linden Texas\nWO:
  s\, Cody Hardy\, Michael Henson\, Mason Hoke\, Jamie Marino\, Ronnie Jenn
  ings\, Dustin Turner\, Ronald Wise\, Matthew Creamer\nSteps:\n- Set slabb
  er in place (4 men\, 6 h)\n- Start chute work under slabber (4 men\, 6 h)
- \n\nUpdated 11/20/2026\, 1:33:47 PM from the Hoke Jobs Dashboard.
+ \n\nUpdated 11/20/2026\, 1:53:21 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwp5imfy07mx-2026-12-09@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:🟪 Ward Timber: Slabber install (H23029) - 10 men
@@ -413,12 +413,12 @@ DESCRIPTION:Job list: Slabber install at Ward Timber in Linden Texas\nWO:
  ings\, Dustin Turner\, Ronald Wise\, Matthew Creamer\nSteps:\n- Install t
  op half of chain conveyor outside (5 men\, 6 h)\n- Put chain in both chai
  n conveyors (5 men\, 6 h)\n- Chute work under slabber (4 men\, 12 h)\n\nU
- pdated 11/20/2026\, 1:33:47 PM from the Hoke Jobs Dashboard.
+ pdated 11/20/2026\, 1:53:21 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwp5imfy07mx-2026-12-10@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:🟪 Ward Timber: Slabber install (H23029) - 10 men
@@ -427,13 +427,13 @@ DESCRIPTION:Job list: Slabber install at Ward Timber in Linden Texas\nWO:
  H23029\nYou: Leadman\nShift: Day\nLeadman: Aaron Hoke\nCrew: Steven Grime
  s\, Cody Hardy\, Michael Henson\, Mason Hoke\, Jamie Marino\, Ronnie Jenn
  ings\, Dustin Turner\, Ronald Wise\, Matthew Creamer\nSteps:\n- Build chu
- tes on chain conveyors (5 men\, 12 h)\n\nUpdated 11/20/2026\, 1:33:47 PM 
+ tes on chain conveyors (5 men\, 12 h)\n\nUpdated 11/20/2026\, 1:53:21 PM 
  from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwp5imfy07mx-2026-12-11@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:🟪 Ward Timber: Slabber install (H23029) - 10 men
@@ -443,13 +443,13 @@ DESCRIPTION:Job list: Slabber install at Ward Timber in Linden Texas\nWO:
  s\, Cody Hardy\, Michael Henson\, Mason Hoke\, Jamie Marino\, Ronnie Jenn
  ings\, Dustin Turner\, Ronald Wise\, Matthew Creamer\nSteps:\n- Modify an
  d install stairs and platform (4 men\, 12 h)\n- Put roof and purlins back
-  on (5 men)\n\nUpdated 11/20/2026\, 1:33:47 PM from the Hoke Jobs Dashboa
+  on (5 men)\n\nUpdated 11/20/2026\, 1:53:21 PM from the Hoke Jobs Dashboa
  rd.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwp5imfy07mx-2026-12-12@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:🟪 Ward Timber: Slabber install (H23029) - 10 men
@@ -458,12 +458,12 @@ DESCRIPTION:Job list: Slabber install at Ward Timber in Linden Texas\nWO:
  H23029\nYou: Leadman\nShift: Day\nLeadman: Aaron Hoke\nCrew: Steven Grime
  s\, Cody Hardy\, Michael Henson\, Mason Hoke\, Jamie Marino\, Ronnie Jenn
  ings\, Dustin Turner\, Ronald Wise\, Matthew Creamer\n\nUpdated 11/20/202
- 6\, 1:33:47 PM from the Hoke Jobs Dashboard.
+ 6\, 1:53:21 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwp5imfy07mx-2026-12-13@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:🟪 Ward Timber: Slabber install (H23029) - 10 men
@@ -472,12 +472,12 @@ DESCRIPTION:Job list: Slabber install at Ward Timber in Linden Texas\nWO:
  H23029\nYou: Leadman\nShift: Day\nLeadman: Aaron Hoke\nCrew: Steven Grime
  s\, Cody Hardy\, Michael Henson\, Mason Hoke\, Jamie Marino\, Ronnie Jenn
  ings\, Dustin Turner\, Ronald Wise\, Matthew Creamer\n\nUpdated 11/20/202
- 6\, 1:33:47 PM from the Hoke Jobs Dashboard.
+ 6\, 1:53:21 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwp5imfy07mx-2026-12-14@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:🟪 Ward Timber: Slabber install (H23029) - 10 men
@@ -486,12 +486,12 @@ DESCRIPTION:Job list: Slabber install at Ward Timber in Linden Texas\nWO:
  H23029\nYou: Leadman\nShift: Day\nLeadman: Aaron Hoke\nCrew: Steven Grime
  s\, Cody Hardy\, Michael Henson\, Mason Hoke\, Jamie Marino\, Ronnie Jenn
  ings\, Dustin Turner\, Ronald Wise\, Matthew Creamer\n\nUpdated 11/20/202
- 6\, 1:33:47 PM from the Hoke Jobs Dashboard.
+ 6\, 1:53:21 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwp5imfy07mx-2026-12-15@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:🟪 Ward Timber: Slabber install (H23029) - 10 men
@@ -500,12 +500,12 @@ DESCRIPTION:Job list: Slabber install at Ward Timber in Linden Texas\nWO:
  H23029\nYou: Leadman\nShift: Day\nLeadman: Aaron Hoke\nCrew: Steven Grime
  s\, Cody Hardy\, Michael Henson\, Mason Hoke\, Jamie Marino\, Ronnie Jenn
  ings\, Dustin Turner\, Ronald Wise\, Matthew Creamer\n\nUpdated 11/20/202
- 6\, 1:33:47 PM from the Hoke Jobs Dashboard.
+ 6\, 1:53:21 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwp5imfy07mx-2026-12-16@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:🟪 Ward Timber: Slabber install (H23029) - 10 men
@@ -514,12 +514,12 @@ DESCRIPTION:Job list: Slabber install at Ward Timber in Linden Texas\nWO:
  H23029\nYou: Leadman\nShift: Day\nLeadman: Aaron Hoke\nCrew: Steven Grime
  s\, Cody Hardy\, Michael Henson\, Mason Hoke\, Jamie Marino\, Ronnie Jenn
  ings\, Dustin Turner\, Ronald Wise\, Matthew Creamer\n\nUpdated 11/20/202
- 6\, 1:33:47 PM from the Hoke Jobs Dashboard.
+ 6\, 1:53:21 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwp5imfy07mx-2026-12-17@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:🟪 Ward Timber: Slabber install (H23029) - 10 men
@@ -528,12 +528,12 @@ DESCRIPTION:Job list: Slabber install at Ward Timber in Linden Texas\nWO:
  H23029\nYou: Leadman\nShift: Day\nLeadman: Aaron Hoke\nCrew: Steven Grime
  s\, Cody Hardy\, Michael Henson\, Mason Hoke\, Jamie Marino\, Ronnie Jenn
  ings\, Dustin Turner\, Ronald Wise\, Matthew Creamer\n\nUpdated 11/20/202
- 6\, 1:33:47 PM from the Hoke Jobs Dashboard.
+ 6\, 1:53:21 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwp5imfy07mx-2026-12-18@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:🟪 Ward Timber: Slabber install (H23029) - 10 men
@@ -542,7 +542,7 @@ DESCRIPTION:Job list: Slabber install at Ward Timber in Linden Texas\nWO:
  H23029\nYou: Leadman\nShift: Day\nLeadman: Aaron Hoke\nCrew: Steven Grime
  s\, Cody Hardy\, Michael Henson\, Mason Hoke\, Jamie Marino\, Ronnie Jenn
  ings\, Dustin Turner\, Ronald Wise\, Matthew Creamer\n\nUpdated 11/20/202
- 6\, 1:33:47 PM from the Hoke Jobs Dashboard.
+ 6\, 1:53:21 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

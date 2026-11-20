@@ -8,9 +8,11 @@ NAME:Hoke Schedule - Greg Davis
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
+X-WR-CALDESC:This is your work schedule. Each job shows the people you are
+  working with. Please do not share this calendar\; it is only for you.
 BEGIN:VEVENT
 UID:si-gppb-16-2026-12-04@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:🟦 Diboll: Fabricate and install new down chute to reclaim airlo
@@ -18,13 +20,13 @@ SUMMARY:🟦 Diboll: Fabricate and install new down chute to reclaim airlo
 LOCATION:Diboll
 DESCRIPTION:Job list: Particleboard Job List — December 2026 Outage and 
  end of year work\nWO: 22974\nYour role: Leadman\nShift: Day\nWith: Hunter
-  McGuire\, Devon Gates\, RB Stowe\n\nUpdated 11/20/2026\, 1:33:47 PM from
+  McGuire\, Devon Gates\, RB Stowe\n\nUpdated 11/20/2026\, 1:53:21 PM from
   the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-gppb-16-2026-12-05@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:🟦 Diboll: Fabricate and install new down chute to reclaim airlo
@@ -32,13 +34,13 @@ SUMMARY:🟦 Diboll: Fabricate and install new down chute to reclaim airlo
 LOCATION:Diboll
 DESCRIPTION:Job list: Particleboard Job List — December 2026 Outage and 
  end of year work\nWO: 22974\nYour role: Leadman\nShift: Day\nWith: Hunter
-  McGuire\, Devon Gates\, RB Stowe\n\nUpdated 11/20/2026\, 1:33:47 PM from
+  McGuire\, Devon Gates\, RB Stowe\n\nUpdated 11/20/2026\, 1:53:21 PM from
   the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnv2izgq70b-2026-12-06@hoke-crew-calendar
-DTSTAMP:20261120T193347Z
+DTSTAMP:20261120T195321Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:🟦 Diboll: Truck dump wall extensions (H23062)
@@ -46,7 +48,7 @@ LOCATION:Diboll
 DESCRIPTION:Job list: Particleboard Job List — December 2026 Outage and 
  end of year work\nWO: H23062\nYour role: Crew\nShift: Day\nLeadman: Teddy
   Lane\nWith: Adam Parrish\, Jerry Mac Hardy\, Hunter McGuire\, Devon Gate
- s\, RB Stowe\n\nUpdated 11/20/2026\, 1:33:47 PM from the Hoke Jobs Dashbo
+ s\, RB Stowe\n\nUpdated 11/20/2026\, 1:53:21 PM from the Hoke Jobs Dashbo
  ard.
 TRANSP:TRANSPARENT
 END:VEVENT
