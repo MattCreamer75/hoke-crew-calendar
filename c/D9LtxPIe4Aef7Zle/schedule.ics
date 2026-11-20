@@ -10,78 +10,78 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:si-mwnsrkrg7xba-2026-11-25@hoke-crew-calendar
-DTSTAMP:20261120T192647Z
+DTSTAMP:20261120T193347Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🟨 GP Diboll Lumber: Transfer cart install (H22965)
 LOCATION:GP Diboll Lumber
 DESCRIPTION:Job list: Transfer cart at Diboll Lumber\nWO: H22965\nYour rol
  e: Crew\nShift: Day\nLeadman: Aaron Hoke\nWith: Cody Hardy\, Mason Hoke\n
- \nUpdated 11/20/2026\, 1:26:47 PM from the Hoke Jobs Dashboard.
+ \nUpdated 11/20/2026\, 1:33:47 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnv5wp7hgl6-2026-12-03@hoke-crew-calendar
-DTSTAMP:20261120T192647Z
+DTSTAMP:20261120T193347Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:🟦 Diboll: Millwright assistance for Mike & Martin (H23071)
 LOCATION:Diboll
 DESCRIPTION:Job list: Particleboard Job List — December 2026 Outage and 
  end of year work\nWO: H23071\nYour role: Crew\nShift: Day\nWith: Gene Ras
- co\, Brian Parrish\, Tanner Boulware\n\nUpdated 11/20/2026\, 1:26:47 PM f
+ co\, Brian Parrish\, Tanner Boulware\n\nUpdated 11/20/2026\, 1:33:47 PM f
  rom the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnv5wp7hgl6-2026-12-04@hoke-crew-calendar
-DTSTAMP:20261120T192647Z
+DTSTAMP:20261120T193347Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:🟦 Diboll: Millwright assistance for Mike & Martin (H23071)
 LOCATION:Diboll
 DESCRIPTION:Job list: Particleboard Job List — December 2026 Outage and 
  end of year work\nWO: H23071\nYour role: Crew\nShift: Day\nWith: Gene Ras
- co\, Brian Parrish\, Tanner Boulware\n\nUpdated 11/20/2026\, 1:26:47 PM f
+ co\, Brian Parrish\, Tanner Boulware\n\nUpdated 11/20/2026\, 1:33:47 PM f
  rom the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnv5wp7hgl6-2026-12-05@hoke-crew-calendar
-DTSTAMP:20261120T192647Z
+DTSTAMP:20261120T193347Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:🟦 Diboll: Millwright assistance for Mike & Martin (H23071)
 LOCATION:Diboll
 DESCRIPTION:Job list: Particleboard Job List — December 2026 Outage and 
  end of year work\nWO: H23071\nYour role: Crew\nShift: Day\nWith: Gene Ras
- co\, Brian Parrish\, Tanner Boulware\n\nUpdated 11/20/2026\, 1:26:47 PM f
+ co\, Brian Parrish\, Tanner Boulware\n\nUpdated 11/20/2026\, 1:33:47 PM f
  rom the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnv5wp7hgl6-2026-12-06@hoke-crew-calendar
-DTSTAMP:20261120T192647Z
+DTSTAMP:20261120T193347Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:🟦 Diboll: Millwright assistance for Mike & Martin (H23071)
 LOCATION:Diboll
 DESCRIPTION:Job list: Particleboard Job List — December 2026 Outage and 
  end of year work\nWO: H23071\nYour role: Crew\nShift: Day\nWith: Gene Ras
- co\, Brian Parrish\, Tanner Boulware\n\nUpdated 11/20/2026\, 1:26:47 PM f
+ co\, Brian Parrish\, Tanner Boulware\n\nUpdated 11/20/2026\, 1:33:47 PM f
  rom the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnv5wp7hgl6-2026-12-07@hoke-crew-calendar
-DTSTAMP:20261120T192647Z
+DTSTAMP:20261120T193347Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:🟦 Diboll: Millwright assistance for Mike & Martin (H23071)
 LOCATION:Diboll
 DESCRIPTION:Job list: Particleboard Job List — December 2026 Outage and 
  end of year work\nWO: H23071\nYour role: Crew\nShift: Day\nWith: Gene Ras
- co\, Brian Parrish\, Tanner Boulware\n\nUpdated 11/20/2026\, 1:26:47 PM f
+ co\, Brian Parrish\, Tanner Boulware\n\nUpdated 11/20/2026\, 1:33:47 PM f
  rom the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT

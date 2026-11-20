@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:si-mwnmb1dktf2g-2026-11-24@hoke-crew-calendar
-DTSTAMP:20261120T192647Z
+DTSTAMP:20261120T193347Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:🟩 GP Corrigan Plywood: Rough deck clean up conveyor extensions 
@@ -22,13 +22,13 @@ DESCRIPTION:Job list: Corrigan Thanksgiving Outage\nWO: H23096\nYour role:
   change (4 men\, 2 h)\n- Tack drag chains to pan in top trough and return
   trough (4 men\, 1 h)\n- Wash end of pins and break chains (4 men\, 3 h)\
  n- Remove head spools (4 men\, 3 h)\n- Tack new pan extensions in place (
- 4 men\, 3 h)\n\nUpdated 11/20/2026\, 1:26:47 PM from the Hoke Jobs Dashbo
+ 4 men\, 3 h)\n\nUpdated 11/20/2026\, 1:33:47 PM from the Hoke Jobs Dashbo
  ard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnmb1dktf2g-2026-11-25@hoke-crew-calendar
-DTSTAMP:20261120T192647Z
+DTSTAMP:20261120T193347Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🟩 GP Corrigan Plywood: Rough deck clean up conveyor extensions 
@@ -39,7 +39,7 @@ DESCRIPTION:Job list: Corrigan Thanksgiving Outage\nWO: H23096\nYour role:
  ino\, Michael Henson\nSteps:\n- Stitch outside with 7018 and seal weld in
  side with 6011 (4 men\, 4 h)\n- Add drag chain links and make up chain (4
   men\, 4 h)\n- Add drive chain links and make up chains (4 men\, 3 h)\n- 
- Clean up tools and work area (4 men\, 1 h)\n\nUpdated 11/20/2026\, 1:26:4
+ Clean up tools and work area (4 men\, 1 h)\n\nUpdated 11/20/2026\, 1:33:4
  7 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT

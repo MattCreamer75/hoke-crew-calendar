@@ -10,27 +10,27 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:si-mwnmimnhcu6j-2026-11-23@hoke-crew-calendar
-DTSTAMP:20261120T192647Z
+DTSTAMP:20261120T193347Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:🟩 GP Corrigan Plywood: Vat main air supply tie in (H23091)
 LOCATION:GP Corrigan Plywood
 DESCRIPTION:Job list: Corrigan Thanksgiving Outage\nWO: H23091\nYour role:
   Crew\nShift: Day\nLeadman: Joseph Taylor\nWith: Cody Hardy\, Cody Dye\, 
- Mason Hoke\n\nUpdated 11/20/2026\, 1:26:47 PM from the Hoke Jobs Dashboar
+ Mason Hoke\n\nUpdated 11/20/2026\, 1:33:47 PM from the Hoke Jobs Dashboar
  d.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnmimnhcu6j-2026-11-24@hoke-crew-calendar
-DTSTAMP:20261120T192647Z
+DTSTAMP:20261120T193347Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:🟩 GP Corrigan Plywood: Vat main air supply tie in (H23091)
 LOCATION:GP Corrigan Plywood
 DESCRIPTION:Job list: Corrigan Thanksgiving Outage\nWO: H23091\nYour role:
   Crew\nShift: Day\nLeadman: Joseph Taylor\nWith: Cody Hardy\, Cody Dye\, 
- Mason Hoke\n\nUpdated 11/20/2026\, 1:26:47 PM from the Hoke Jobs Dashboar
+ Mason Hoke\n\nUpdated 11/20/2026\, 1:33:47 PM from the Hoke Jobs Dashboar
  d.
 TRANSP:TRANSPARENT
 END:VEVENT
