@@ -1,0 +1,157 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hoke Industrial//Jobs Dashboard crew calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hoke Schedule - TEST - Teddy Lane's schedule
+NAME:Hoke Schedule - TEST - Teddy Lane's schedule
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:test-event@hoke-crew-calendar
+DTSTAMP:20261120T171112Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:TEST: Calendar link is working
+LOCATION:TEST
+DESCRIPTION:Job list: Test\nYour role: Test\n\nUpdated 11/20/2026\, 11:11:
+ 12 AM from the Hoke Jobs Dashboard. Questions: call your leadman or the o
+ ffice.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:si-mwnmb1dktf2g-2026-11-24-teddy-lane@hoke-crew-calendar
+DTSTAMP:20261120T171112Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:🟩 GP Corrigan Plywood: Rough deck clean up conveyor extensions 
+ (H23096)
+LOCATION:GP Corrigan Plywood
+DESCRIPTION:Job list: Corrigan Thanksgiving Outage\nWO: H23096\nYour role:
+  Leadman\nShift: Day\nWith: Ronnie Jennings\, Jamie Marino\, Eric Taylor\
+ , Michael Henson\n\nUpdated 11/20/2026\, 11:11:12 AM from the Hoke Jobs D
+ ashboard. Questions: call your leadman or the office.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:si-mwnmb1dktf2g-2026-11-25-teddy-lane@hoke-crew-calendar
+DTSTAMP:20261120T171112Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:🟩 GP Corrigan Plywood: Rough deck clean up conveyor extensions 
+ (H23096)
+LOCATION:GP Corrigan Plywood
+DESCRIPTION:Job list: Corrigan Thanksgiving Outage\nWO: H23096\nYour role:
+  Leadman\nShift: Day\nWith: Ronnie Jennings\, Jamie Marino\, Eric Taylor\
+ , Michael Henson\n\nUpdated 11/20/2026\, 11:11:12 AM from the Hoke Jobs D
+ ashboard. Questions: call your leadman or the office.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:si-mwnsrkrg7xba-2026-11-26-teddy-lane@hoke-crew-calendar
+DTSTAMP:20261120T171112Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:🟨 GP Diboll Lumber: Transfer cart install (H22965)
+LOCATION:GP Diboll Lumber
+DESCRIPTION:Job list: Transfer cart at Diboll Lumber\nWO: H22965\nYour rol
+ e: Crew\nShift: Day\nLeadman: Aaron Hoke\nWith: Cody Hardy\, Mason Hoke\,
+  Jamie Marino\, Michael Henson\n\nUpdated 11/20/2026\, 11:11:12 AM from t
+ he Hoke Jobs Dashboard. Questions: call your leadman or the office.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:si-mwnsrkrg7xba-2026-11-27-teddy-lane@hoke-crew-calendar
+DTSTAMP:20261120T171112Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:🟨 GP Diboll Lumber: Transfer cart install (H22965)
+LOCATION:GP Diboll Lumber
+DESCRIPTION:Job list: Transfer cart at Diboll Lumber\nWO: H22965\nYour rol
+ e: Crew\nShift: Day\nLeadman: Aaron Hoke\nWith: Cody Hardy\, Mason Hoke\,
+  Jamie Marino\, Michael Henson\n\nUpdated 11/20/2026\, 11:11:12 AM from t
+ he Hoke Jobs Dashboard. Questions: call your leadman or the office.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:si-gppb-21-2026-12-03-teddy-lane@hoke-crew-calendar
+DTSTAMP:20261120T171112Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:🟦 Diboll: Dryer 2 outfeed chute carbon steel instead of stainle
+ ss (H23056)
+LOCATION:Diboll
+DESCRIPTION:Job list: Particleboard Job List — December 2026 Outage and 
+ end of year work\nWO: H23056\nYour role: Leadman\nShift: Day\nWith: Ronni
+ e Jennings\n\nUpdated 11/20/2026\, 11:11:12 AM from the Hoke Jobs Dashboa
+ rd. Questions: call your leadman or the office.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:si-mwnv2izgq70b-2026-12-04-teddy-lane@hoke-crew-calendar
+DTSTAMP:20261120T171112Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:🟦 Diboll: Truck dump wall extensions (H23062)
+LOCATION:Diboll
+DESCRIPTION:Job list: Particleboard Job List — December 2026 Outage and 
+ end of year work\nWO: H23062\nYour role: Leadman\nShift: Day\nWith: Adam 
+ Parrish\, Jerry Mac Hardy\n\nUpdated 11/20/2026\, 11:11:12 AM from the Ho
+ ke Jobs Dashboard. Questions: call your leadman or the office.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:si-mwnv2izgq70b-2026-12-05-teddy-lane@hoke-crew-calendar
+DTSTAMP:20261120T171112Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:🟦 Diboll: Truck dump wall extensions (H23062)
+LOCATION:Diboll
+DESCRIPTION:Job list: Particleboard Job List — December 2026 Outage and 
+ end of year work\nWO: H23062\nYour role: Leadman\nShift: Day\nWith: Adam 
+ Parrish\, Darron Hoke\n\nUpdated 11/20/2026\, 11:11:12 AM from the Hoke J
+ obs Dashboard. Questions: call your leadman or the office.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:si-mwnv2izgq70b-2026-12-06-teddy-lane@hoke-crew-calendar
+DTSTAMP:20261120T171112Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:🟦 Diboll: Truck dump wall extensions (H23062)
+LOCATION:Diboll
+DESCRIPTION:Job list: Particleboard Job List — December 2026 Outage and 
+ end of year work\nWO: H23062\nYour role: Leadman\nShift: Day\nWith: Adam 
+ Parrish\, Jerry Mac Hardy\, Greg Davis\, Hunter McGuire\, Devon Gates\, R
+ B Stowe\n\nUpdated 11/20/2026\, 11:11:12 AM from the Hoke Jobs Dashboard.
+  Questions: call your leadman or the office.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:si-mwnvwpx3b3yr-2026-12-07-teddy-lane@hoke-crew-calendar
+DTSTAMP:20261120T171112Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:🟦 Diboll: BCL forming head adjustment (H23073)
+LOCATION:Diboll
+DESCRIPTION:Job list: Particleboard Job List — December 2026 Outage and 
+ end of year work\nWO: H23073\nYour role: Crew - 6 hours this day\nShift: 
+ Day\nWith: RB Stowe\n\nUpdated 11/20/2026\, 11:11:12 AM from the Hoke Job
+ s Dashboard. Questions: call your leadman or the office.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:si-mwnvxxh6unoy-2026-12-07-teddy-lane@hoke-crew-calendar
+DTSTAMP:20261120T171112Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:🟦 Diboll: TCL forming head adjustment (H23073)
+LOCATION:Diboll
+DESCRIPTION:Job list: Particleboard Job List — December 2026 Outage and 
+ end of year work\nWO: H23073\nYour role: Crew - 6 hours this day\nShift: 
+ Day\nWith: RB Stowe\n\nUpdated 11/20/2026\, 11:11:12 AM from the Hoke Job
+ s Dashboard. Questions: call your leadman or the office.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
