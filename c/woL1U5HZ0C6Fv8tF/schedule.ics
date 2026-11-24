@@ -12,28 +12,32 @@ X-WR-CALDESC:This is your work schedule. Each job shows the people you are
   working with. Please do not share this calendar\; it is only for you.
 BEGIN:VEVENT
 UID:si-mwnmimnhcu6j-2026-11-23@hoke-crew-calendar
-DTSTAMP:20261120T200807Z
+DTSTAMP:20261124T210454Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:🟩 GP Corrigan Plywood: Vat main air supply tie in (H23091)
 LOCATION:GP Corrigan Plywood
 DESCRIPTION:Job list: Corrigan Thanksgiving Outage\nWO: H23091\nYour role:
   Crew\nShift: Day\nLeadman: Joseph Taylor\nWith: Cody Hardy\, Cody Dye\, 
- Mason Hoke\n\nUpdated 11/20/2026\, 2:08:07 PM from the Hoke Jobs Dashboar
- d.
+ Mason Hoke\nSteps:\n- Run 3/4" pipe to replace hoses (4 men\, 2 h)\n- Cut
+  in 4" valve and weld out (4 men\, 3 h)\n- Run 4" pipe from west end to b
+ lue 3" and tie in with T (4 men\, 5 h)\n- Cut holes in grating and instal
+ l 4" mill supplied spool (4 men\, 2 h)\n\nUpdated 11/24/2026\, 3:04:54 PM
+  from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnmimnhcu6j-2026-11-24@hoke-crew-calendar
-DTSTAMP:20261120T200807Z
+DTSTAMP:20261124T210454Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:🟩 GP Corrigan Plywood: Vat main air supply tie in (H23091)
 LOCATION:GP Corrigan Plywood
 DESCRIPTION:Job list: Corrigan Thanksgiving Outage\nWO: H23091\nYour role:
   Crew\nShift: Day\nLeadman: Joseph Taylor\nWith: Cody Hardy\, Cody Dye\, 
- Mason Hoke\n\nUpdated 11/20/2026\, 2:08:07 PM from the Hoke Jobs Dashboar
- d.
+ Mason Hoke\nSteps:\n- Cut and cap 4" lines between vat 1 and 2 (4 men\, 4
+  h)\n- Weld out any remaining welds not finished (4 men\, 6 h)\n\nUpdated
+  11/24/2026\, 3:04:54 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

@@ -12,7 +12,7 @@ X-WR-CALDESC:This is your work schedule. Each job shows the people you are
   working with. Please do not share this calendar\; it is only for you.
 BEGIN:VEVENT
 UID:si-mwnmb1dktf2g-2026-11-24@hoke-crew-calendar
-DTSTAMP:20261120T200807Z
+DTSTAMP:20261124T210454Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:🟩 GP Corrigan Plywood: Rough deck clean up conveyor extensions 
@@ -24,13 +24,13 @@ DESCRIPTION:Job list: Corrigan Thanksgiving Outage\nWO: H23096\nYour role:
  ange (4 men\, 2 h)\n- Tack drag chains to pan in top trough and return tr
  ough (4 men\, 1 h)\n- Wash end of pins and break chains (4 men\, 3 h)\n- 
  Remove head spools (4 men\, 3 h)\n- Tack new pan extensions in place (4 m
- en\, 3 h)\n\nUpdated 11/20/2026\, 2:08:07 PM from the Hoke Jobs Dashboard
+ en\, 3 h)\n\nUpdated 11/24/2026\, 3:04:54 PM from the Hoke Jobs Dashboard
  .
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnmb1dktf2g-2026-11-25@hoke-crew-calendar
-DTSTAMP:20261120T200807Z
+DTSTAMP:20261124T210454Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🟩 GP Corrigan Plywood: Rough deck clean up conveyor extensions 
@@ -41,39 +41,39 @@ DESCRIPTION:Job list: Corrigan Thanksgiving Outage\nWO: H23096\nYour role:
  ino\, Erik Taylor\nSteps:\n- Stitch outside with 7018 and seal weld insid
  e with 6011 (4 men\, 4 h)\n- Add drag chain links and make up chain (4 me
  n\, 4 h)\n- Add drive chain links and make up chains (4 men\, 3 h)\n- Cle
- an up tools and work area (4 men\, 1 h)\n\nUpdated 11/20/2026\, 2:08:07 P
+ an up tools and work area (4 men\, 1 h)\n\nUpdated 11/24/2026\, 3:04:54 P
  M from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnsrkrg7xba-2026-11-26@hoke-crew-calendar
-DTSTAMP:20261120T200807Z
+DTSTAMP:20261124T210454Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:🟨 GP Diboll Lumber: Transfer cart install (H22965)
 LOCATION:GP Diboll Lumber
 DESCRIPTION:Job list: Transfer cart at Diboll Lumber\nWO: H22965\nYour rol
  e: Crew\nShift: Day\nLeadman: Aaron Hoke\nWith: Cody Hardy\, Mason Hoke\,
-  Teddy Lane\, Jamie Marino\n\nUpdated 11/20/2026\, 2:08:07 PM from the Ho
+  Teddy Lane\, Jamie Marino\n\nUpdated 11/24/2026\, 3:04:54 PM from the Ho
  ke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwnsrkrg7xba-2026-11-27@hoke-crew-calendar
-DTSTAMP:20261120T200807Z
+DTSTAMP:20261124T210454Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:🟨 GP Diboll Lumber: Transfer cart install (H22965)
 LOCATION:GP Diboll Lumber
 DESCRIPTION:Job list: Transfer cart at Diboll Lumber\nWO: H22965\nYour rol
  e: Crew\nShift: Day\nLeadman: Aaron Hoke\nWith: Cody Hardy\, Mason Hoke\,
-  Teddy Lane\, Jamie Marino\n\nUpdated 11/20/2026\, 2:08:07 PM from the Ho
+  Teddy Lane\, Jamie Marino\n\nUpdated 11/24/2026\, 3:04:54 PM from the Ho
  ke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwp5imfy07mx-2026-12-05@hoke-crew-calendar
-DTSTAMP:20261120T200807Z
+DTSTAMP:20261124T210454Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:🟪 Ward Timber: Slabber install (H23029)
@@ -84,29 +84,28 @@ DESCRIPTION:Job list: Slabber install at Ward Timber in Linden Texas\nWO:
  Wise\, Matthew Creamer\nSteps:\n- Remove tin & purlins from building (4 m
  en\, 12 h)\n- Cut stairs loose and shorten catwalk and unload trucks (4 m
  en\, 8 h)\n- Start cutting cab loose to move and unload trucks (4 men\, 4
-  h)\n\nUpdated 11/20/2026\, 2:08:07 PM from the Hoke Jobs Dashboard.
+  h)\n\nUpdated 11/24/2026\, 3:04:54 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwp5imfy07mx-2026-12-06@hoke-crew-calendar
-DTSTAMP:20261120T200807Z
+DTSTAMP:20261124T210454Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:🟪 Ward Timber: Slabber install (H23029)
 LOCATION:Ward Timber
 DESCRIPTION:Job list: Slabber install at Ward Timber in Linden Texas\nWO: 
  H23029\nYour role: Crew\nShift: Day\nLeadman: Aaron Hoke\nWith: Steven Gr
- imes\, Cody Hardy\, Mason Hoke\, Jamie Marino\, Ronnie Jennings\, Dustin 
- Turner\, Ronald Wise\, Matthew Creamer\nSteps:\n- Finish cutting cab loos
- e and move (4 men\, 6 h)\n- Install new structure for slabber (4 men\, 6 
- h)\n- Remove wall sheets for conveyor to pass through and install conveyo
- r section (4 men\, 12 h)\n\nUpdated 11/20/2026\, 2:08:07 PM from the Hoke
-  Jobs Dashboard.
+ imes\, Cody Hardy\, Mason Hoke\, Jamie Marino\, Ronnie Jennings\, Ronald 
+ Wise\, Matthew Creamer\nSteps:\n- Finish cutting cab loose and move (4 me
+ n\, 6 h)\n- Install new structure for slabber (4 men\, 6 h)\n- Remove wal
+ l sheets for conveyor to pass through and install conveyor section (4 men
+ \, 12 h)\n\nUpdated 11/24/2026\, 3:04:54 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwp5imfy07mx-2026-12-07@hoke-crew-calendar
-DTSTAMP:20261120T200807Z
+DTSTAMP:20261124T210454Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:🟪 Ward Timber: Slabber install (H23029)
@@ -117,13 +116,13 @@ DESCRIPTION:Job list: Slabber install at Ward Timber in Linden Texas\nWO:
  Turner\, Ronald Wise\, Matthew Creamer\nSteps:\n- Install other half of c
  hain conveyor through wall (5 men\, 6 h)\n- Weld out structure for slabbe
  r (4 men\, 6 h)\n- Set cab on new structure (4 men\, 6 h)\n- Install firs
- t half of outside chain conveyor (5 men\, 6 h)\n\nUpdated 11/20/2026\, 2:
- 08:07 PM from the Hoke Jobs Dashboard.
+ t half of outside chain conveyor (5 men\, 6 h)\n\nUpdated 11/24/2026\, 3:
+ 04:54 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwp5imfy07mx-2026-12-08@hoke-crew-calendar
-DTSTAMP:20261120T200807Z
+DTSTAMP:20261124T210454Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:🟪 Ward Timber: Slabber install (H23029)
@@ -133,12 +132,12 @@ DESCRIPTION:Job list: Slabber install at Ward Timber in Linden Texas\nWO:
  imes\, Cody Hardy\, Mason Hoke\, Jamie Marino\, Ronnie Jennings\, Dustin 
  Turner\, Ronald Wise\, Matthew Creamer\nSteps:\n- Set slabber in place (4
   men\, 6 h)\n- Start chute work under slabber (4 men\, 6 h)\n\nUpdated 11
- /20/2026\, 2:08:07 PM from the Hoke Jobs Dashboard.
+ /24/2026\, 3:04:54 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwp5imfy07mx-2026-12-09@hoke-crew-calendar
-DTSTAMP:20261120T200807Z
+DTSTAMP:20261124T210454Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:🟪 Ward Timber: Slabber install (H23029)
@@ -146,15 +145,15 @@ LOCATION:Ward Timber
 DESCRIPTION:Job list: Slabber install at Ward Timber in Linden Texas\nWO: 
  H23029\nYour role: Crew\nShift: Day\nLeadman: Aaron Hoke\nWith: Steven Gr
  imes\, Cody Hardy\, Mason Hoke\, Jamie Marino\, Ronnie Jennings\, Dustin 
- Turner\, Ronald Wise\, Matthew Creamer\nSteps:\n- Install top half of cha
- in conveyor outside (5 men\, 6 h)\n- Put chain in both chain conveyors (5
-  men\, 6 h)\n- Chute work under slabber (4 men\, 12 h)\n\nUpdated 11/20/2
- 026\, 2:08:07 PM from the Hoke Jobs Dashboard.
+ Turner\, Ronald Wise\, Matthew Creamer\, Teddy Lane\nSteps:\n- Install to
+ p half of chain conveyor outside (5 men\, 6 h)\n- Put chain in both chain
+  conveyors (5 men\, 6 h)\n- Chute work under slabber (4 men\, 12 h)\n\nUp
+ dated 11/24/2026\, 3:04:54 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwp5imfy07mx-2026-12-10@hoke-crew-calendar
-DTSTAMP:20261120T200807Z
+DTSTAMP:20261124T210454Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:🟪 Ward Timber: Slabber install (H23029)
@@ -162,14 +161,14 @@ LOCATION:Ward Timber
 DESCRIPTION:Job list: Slabber install at Ward Timber in Linden Texas\nWO: 
  H23029\nYour role: Crew\nShift: Day\nLeadman: Aaron Hoke\nWith: Steven Gr
  imes\, Cody Hardy\, Mason Hoke\, Jamie Marino\, Ronnie Jennings\, Dustin 
- Turner\, Ronald Wise\, Matthew Creamer\nSteps:\n- Build chutes on chain c
- onveyors (5 men\, 12 h)\n\nUpdated 11/20/2026\, 2:08:07 PM from the Hoke 
- Jobs Dashboard.
+ Turner\, Ronald Wise\, Matthew Creamer\, Teddy Lane\nSteps:\n- Build chut
+ es on chain conveyors (5 men\, 12 h)\n\nUpdated 11/24/2026\, 3:04:54 PM f
+ rom the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwp5imfy07mx-2026-12-11@hoke-crew-calendar
-DTSTAMP:20261120T200807Z
+DTSTAMP:20261124T210454Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:🟪 Ward Timber: Slabber install (H23029)
@@ -177,14 +176,15 @@ LOCATION:Ward Timber
 DESCRIPTION:Job list: Slabber install at Ward Timber in Linden Texas\nWO: 
  H23029\nYour role: Crew\nShift: Day\nLeadman: Aaron Hoke\nWith: Steven Gr
  imes\, Cody Hardy\, Mason Hoke\, Jamie Marino\, Ronnie Jennings\, Dustin 
- Turner\, Ronald Wise\, Matthew Creamer\nSteps:\n- Modify and install stai
- rs and platform (4 men\, 12 h)\n- Put roof and purlins back on (5 men)\n\
- nUpdated 11/20/2026\, 2:08:07 PM from the Hoke Jobs Dashboard.
+ Turner\, Ronald Wise\, Matthew Creamer\, Teddy Lane\nSteps:\n- Modify and
+  install stairs and platform (4 men\, 12 h)\n- Put roof and purlins back 
+ on (5 men)\n\nUpdated 11/24/2026\, 3:04:54 PM from the Hoke Jobs Dashboar
+ d.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwp5imfy07mx-2026-12-12@hoke-crew-calendar
-DTSTAMP:20261120T200807Z
+DTSTAMP:20261124T210454Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:🟪 Ward Timber: Slabber install (H23029)
@@ -192,13 +192,13 @@ LOCATION:Ward Timber
 DESCRIPTION:Job list: Slabber install at Ward Timber in Linden Texas\nWO: 
  H23029\nYour role: Crew\nShift: Day\nLeadman: Aaron Hoke\nWith: Steven Gr
  imes\, Cody Hardy\, Mason Hoke\, Jamie Marino\, Ronnie Jennings\, Dustin 
- Turner\, Ronald Wise\, Matthew Creamer\n\nUpdated 11/20/2026\, 2:08:07 PM
-  from the Hoke Jobs Dashboard.
+ Turner\, Ronald Wise\, Matthew Creamer\, Teddy Lane\n\nUpdated 11/24/2026
+ \, 3:04:54 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwp5imfy07mx-2026-12-13@hoke-crew-calendar
-DTSTAMP:20261120T200807Z
+DTSTAMP:20261124T210454Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:🟪 Ward Timber: Slabber install (H23029)
@@ -206,13 +206,13 @@ LOCATION:Ward Timber
 DESCRIPTION:Job list: Slabber install at Ward Timber in Linden Texas\nWO: 
  H23029\nYour role: Crew\nShift: Day\nLeadman: Aaron Hoke\nWith: Steven Gr
  imes\, Cody Hardy\, Mason Hoke\, Jamie Marino\, Ronnie Jennings\, Dustin 
- Turner\, Ronald Wise\, Matthew Creamer\n\nUpdated 11/20/2026\, 2:08:07 PM
-  from the Hoke Jobs Dashboard.
+ Turner\, Ronald Wise\, Matthew Creamer\, Teddy Lane\n\nUpdated 11/24/2026
+ \, 3:04:54 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwp5imfy07mx-2026-12-14@hoke-crew-calendar
-DTSTAMP:20261120T200807Z
+DTSTAMP:20261124T210454Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:🟪 Ward Timber: Slabber install (H23029)
@@ -220,13 +220,13 @@ LOCATION:Ward Timber
 DESCRIPTION:Job list: Slabber install at Ward Timber in Linden Texas\nWO: 
  H23029\nYour role: Crew\nShift: Day\nLeadman: Aaron Hoke\nWith: Steven Gr
  imes\, Cody Hardy\, Mason Hoke\, Jamie Marino\, Ronnie Jennings\, Dustin 
- Turner\, Ronald Wise\, Matthew Creamer\n\nUpdated 11/20/2026\, 2:08:07 PM
-  from the Hoke Jobs Dashboard.
+ Turner\, Ronald Wise\, Matthew Creamer\, Teddy Lane\n\nUpdated 11/24/2026
+ \, 3:04:54 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwp5imfy07mx-2026-12-15@hoke-crew-calendar
-DTSTAMP:20261120T200807Z
+DTSTAMP:20261124T210454Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:🟪 Ward Timber: Slabber install (H23029)
@@ -234,13 +234,13 @@ LOCATION:Ward Timber
 DESCRIPTION:Job list: Slabber install at Ward Timber in Linden Texas\nWO: 
  H23029\nYour role: Crew\nShift: Day\nLeadman: Aaron Hoke\nWith: Steven Gr
  imes\, Cody Hardy\, Mason Hoke\, Jamie Marino\, Ronnie Jennings\, Dustin 
- Turner\, Ronald Wise\, Matthew Creamer\n\nUpdated 11/20/2026\, 2:08:07 PM
-  from the Hoke Jobs Dashboard.
+ Turner\, Ronald Wise\, Matthew Creamer\, Teddy Lane\n\nUpdated 11/24/2026
+ \, 3:04:54 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwp5imfy07mx-2026-12-16@hoke-crew-calendar
-DTSTAMP:20261120T200807Z
+DTSTAMP:20261124T210454Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:🟪 Ward Timber: Slabber install (H23029)
@@ -248,13 +248,13 @@ LOCATION:Ward Timber
 DESCRIPTION:Job list: Slabber install at Ward Timber in Linden Texas\nWO: 
  H23029\nYour role: Crew\nShift: Day\nLeadman: Aaron Hoke\nWith: Steven Gr
  imes\, Cody Hardy\, Mason Hoke\, Jamie Marino\, Ronnie Jennings\, Dustin 
- Turner\, Ronald Wise\, Matthew Creamer\n\nUpdated 11/20/2026\, 2:08:07 PM
-  from the Hoke Jobs Dashboard.
+ Turner\, Ronald Wise\, Matthew Creamer\, Teddy Lane\n\nUpdated 11/24/2026
+ \, 3:04:54 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwp5imfy07mx-2026-12-17@hoke-crew-calendar
-DTSTAMP:20261120T200807Z
+DTSTAMP:20261124T210454Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:🟪 Ward Timber: Slabber install (H23029)
@@ -262,13 +262,13 @@ LOCATION:Ward Timber
 DESCRIPTION:Job list: Slabber install at Ward Timber in Linden Texas\nWO: 
  H23029\nYour role: Crew\nShift: Day\nLeadman: Aaron Hoke\nWith: Steven Gr
  imes\, Cody Hardy\, Mason Hoke\, Jamie Marino\, Ronnie Jennings\, Dustin 
- Turner\, Ronald Wise\, Matthew Creamer\n\nUpdated 11/20/2026\, 2:08:07 PM
-  from the Hoke Jobs Dashboard.
+ Turner\, Ronald Wise\, Matthew Creamer\, Teddy Lane\n\nUpdated 11/24/2026
+ \, 3:04:54 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:si-mwp5imfy07mx-2026-12-18@hoke-crew-calendar
-DTSTAMP:20261120T200807Z
+DTSTAMP:20261124T210454Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:🟪 Ward Timber: Slabber install (H23029)
@@ -276,8 +276,8 @@ LOCATION:Ward Timber
 DESCRIPTION:Job list: Slabber install at Ward Timber in Linden Texas\nWO: 
  H23029\nYour role: Crew\nShift: Day\nLeadman: Aaron Hoke\nWith: Steven Gr
  imes\, Cody Hardy\, Mason Hoke\, Jamie Marino\, Ronnie Jennings\, Dustin 
- Turner\, Ronald Wise\, Matthew Creamer\n\nUpdated 11/20/2026\, 2:08:07 PM
-  from the Hoke Jobs Dashboard.
+ Turner\, Ronald Wise\, Matthew Creamer\, Teddy Lane\n\nUpdated 11/24/2026
+ \, 3:04:54 PM from the Hoke Jobs Dashboard.
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
